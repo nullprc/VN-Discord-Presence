@@ -2,11 +2,8 @@
 
 so i got tired of using random generic rich presence tools for visual novels that either pull broken metadata or require steam/steamgriddb setup, so i made this.
 
-
-## what it actually does
-
 <img width="475" height="647" alt="image" src="https://github.com/user-attachments/assets/ade284c2-71b5-4e57-a291-054e95f8ecd7" /> <img width="474" height="648" alt="image" src="https://github.com/user-attachments/assets/63f97d85-522d-4c21-8c9b-90df5bd306a6" />
-
+## what it actually does
  
 - **background process scanner:** keeps tabs on your tasks so it instantly catches when you boot up a VN.
 - **vndb integration:** when you add a game, it queries vndb and gives you a nice thumbnail grid of search results with the real covers so you never click the wrong one.
