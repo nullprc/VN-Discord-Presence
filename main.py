@@ -414,7 +414,7 @@ class AddGameDialog(tk.Toplevel):
         ttk.Label(
             title_row,
             text="Discord Application ID (REQUIRED if you don't want\n"
-            "the big title to say \"a game\" — see 'How?'):",
+            "the big title to say \" \" — see 'How?'):",
         ).pack(side="left")
         ttk.Button(title_row, text="How?", width=6, command=self.show_client_id_help).pack(
             side="right"
