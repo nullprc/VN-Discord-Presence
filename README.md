@@ -2,7 +2,6 @@
 
 so i got tired of using random generic rich presence tools for visual novels that either pull broken metadata or require steam/steamgriddb setup, so i made this.
 
-detects running processes on your PC and displays them on your Discord Rich Presence with the real visual novel title, its cover art, and a "View on VNDB" button — all sourced from VNDB (free, VN-specific, and with correct titles and covers for virtually any VN out there).
 
 ## what it actually does
 
