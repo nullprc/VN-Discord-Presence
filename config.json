@@ -1,5 +1,5 @@
 {
-    "discord_client_id": "1542594277543125092",
+    "discord_client_id": "",
     "poll_interval_seconds": 15,
     "afk_detection": {
         "enabled": true,
