@@ -1,0 +1,19 @@
+{
+    "discord_client_id": "1542594277543125092",
+    "poll_interval_seconds": 15,
+    "afk_detection": {
+        "enabled": true,
+        "idle_threshold_seconds": 300,
+        "active_text": "Playing",
+        "idle_text": "Idle"
+    },
+    "games": [
+        {
+            "process": "hanachirasu.exe",
+            "name": "Hanachirasu",
+            "icon_url": "https://t.vndb.org/cv/44/77844.jpg",
+            "vndb_url": "https://vndb.org/v430",
+            "discord_client_id": ""
+        }
+    ]
+}
